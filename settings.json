@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Dark+ Material",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "files.associations": {
+        "*.tidal": "haskell"
+    },
+    "window.zoomLevel": 0
+}
